@@ -3,6 +3,10 @@
 Guía de comandos más útiles del **Símbolo del Sistema (CMD)** de Windows.  
 (descripción y uso)
 
+![Texto alternativo](https://github.com/speinador/Comandos_CMD/blob/main/CMD_IMG.png)
+
+
+
 ---
 
 ## 📚 Índice
