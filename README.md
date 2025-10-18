@@ -145,13 +145,16 @@ Guía de comandos más útiles del **Símbolo del Sistema (CMD)** de Windows.
 
 ---
 
-## 🧾 Créditos
+## 🧑‍🏫 Autor
 
-📘 **Autor:** Sebastián Peinador  
-👨‍🏫 **Profesor de Seguridad Informática**  
-🏥 **Jefe de Soporte y Sistemas - Hospital José M. Penna (CABA)**  
-📍 **Argentina**
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
 
 ---
 
-> 💡 *Este documento puede usarse libremente con fines educativos o de referencia técnica. Creado para estudiantes y profesionales de IT que deseen dominar el uso del CMD de Windows.*
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+
+---
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
