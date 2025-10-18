@@ -1,7 +1,7 @@
 # 💻 Comandos CMD de Windows
 
-Guía completa de los comandos más útiles del **Símbolo del Sistema (CMD)** de Windows.  
-Incluye descripción, uso y categorías para una rápida referencia. Ideal para estudiantes, técnicos y profesionales IT.
+Guía de comandos más útiles del **Símbolo del Sistema (CMD)** de Windows.  
+(descripción y uso)
 
 ---
 
